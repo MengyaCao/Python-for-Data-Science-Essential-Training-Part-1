@@ -12,3 +12,8 @@
 * Concatenating and transforming<br>
 * Grouping and aggregation<br>
 * Chapter Quiz -- 12 questions
+## 3. Data Cisualization 101
+* The three types of data visualization
+* Selecting optimal data graphics
+* Communicating with color and context
+* Charpter Quiz -- 3 questions
