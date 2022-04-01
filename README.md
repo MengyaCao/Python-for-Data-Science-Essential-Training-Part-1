@@ -12,8 +12,16 @@
 * Concatenating and transforming<br>
 * Grouping and aggregation<br>
 * Chapter Quiz -- 12 questions
-## 3. Data Cisualization 101
+## 3. Data visualization 101
 * The three types of data visualization
 * Selecting optimal data graphics
 * Communicating with color and context
 * Charpter Quiz -- 3 questions
+## 4. Practical Data Visualization
+* Creating standard data graphics
+* Defining elements of a plot
+* Plot formatting
+* Creating labels and annotations
+* Visualizing time series
+* Creating statical data graphics
+* Charpter Quiz -- 12 questions
