@@ -25,3 +25,14 @@
 * Visualizing time series
 * Creating statical data graphics
 * Charpter Quiz -- 12 questions
+## Basic Math and Statistics
+* Simple arithmetic
+* Basic linear algebra
+* Generating summary statistics
+* Summarizing categorical data
+* Parametric correlation analysis
+* Non-parametrics correlation analysisi
+* Transforming dataset distributions
+* Extreme value analysis for outliers
+* Multivariate analysis for outliers
+* Chapter Quiz -- 28 questions
