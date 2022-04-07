@@ -25,7 +25,7 @@
 * Visualizing time series
 * Creating statical data graphics
 * Charpter Quiz -- 12 questions
-## Basic Math and Statistics
+## 5. Basic Math and Statistics
 * Simple arithmetic
 * Basic linear algebra
 * Generating summary statistics
