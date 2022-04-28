@@ -36,3 +36,5 @@
 * Extreme value analysis for outliers
 * Multivariate analysis for outliers
 * Chapter Quiz -- 28 questions
+## 6. Data Sourcing via Web Scraping
+## 7. Collaborative Analytics with Ploty
